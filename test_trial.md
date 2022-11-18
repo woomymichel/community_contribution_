@@ -214,6 +214,4 @@ conferences)
 <https://drive.google.com/file/d/18q40D9Gws-H7IvXcS0ZERJsuZ-FYfcHz/view?usp=sharing>
 (link to Python textbook)
 
-``` r
-library(bookdown)
-```
+
