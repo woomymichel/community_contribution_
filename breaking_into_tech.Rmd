@@ -1,7 +1,3 @@
----
-output: github_document
----
-
 # Breaking into tech: black girl edition
 
 Woomy Michel
